@@ -3,7 +3,7 @@
 This program solves following two problems :
 
 
-Trigger Py Spark algorithm outside hadoop cluster.
+    1) Trigger Py Spark algorithm outside hadoop cluster.
 
 
-Java SSH Connection Program using Jsch
+    2) Java SSH Connection Program using Jsch
